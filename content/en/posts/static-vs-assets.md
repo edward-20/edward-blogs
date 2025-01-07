@@ -1,6 +1,6 @@
 +++
 date = '2025-01-07T18:10:57+11:00'
-draft = true
+draft = false
 title = 'Static vs Assets'
 +++
 
